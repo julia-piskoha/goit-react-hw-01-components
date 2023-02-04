@@ -15,7 +15,7 @@
 .item {
   display: flex;
   align-items: center;
-  justify-content: start;
+  align-items: flex-start;
   gap: 20px;
   margin-bottom: 20px;
 }
